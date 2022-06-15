@@ -1,1 +1,1 @@
-New changes directories and files have been added
+New directories and files have been added
