@@ -1,3 +1,1 @@
-my first readme
-
-new directories and files added
+New changes directories and files have been added
